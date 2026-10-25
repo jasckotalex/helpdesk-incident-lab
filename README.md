@@ -12,13 +12,15 @@
 
 ## Структура
 
-`incidents/` — учебные карточки; `templates/` — шаблоны внутренних записей.
+`incidents/` — учебные карточки; `screenshots/` — доказательства выполнения в Jira; `templates/` — шаблоны внутренних записей.
 
 ## Пример реализации
 
 Практическая часть INC-001 выполнена в учебном проекте Jira IT Service Management. Заявка KAN-4 прошла путь от To Do до Resolved. Подробности и скриншоты находятся в [INC-001-no-internet.md](incidents/INC-001-no-internet.md).
 
 ## Завершённые Jira-сценарии
+
+Подробные карточки: [INC-001](incidents/INC-001-no-internet.md), [INC-002](incidents/INC-002-dns-resolution.md), [INC-003](incidents/INC-003-remote-access.md).
 
 - INC-001 — KAN-4: нет доступа в интернет.
 - INC-002 — KAN-5: сайты не открываются по DNS-именам.
