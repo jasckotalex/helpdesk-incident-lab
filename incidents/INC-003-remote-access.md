@@ -95,5 +95,6 @@ RDP-служба
 2. [Диагностика KAN-6](../screenshots/11-inc-003-diagnostics.png)
 3. [Комментарий пользователю](../screenshots/12-inc-003-user-comment.png)
 4. [Решение KAN-6](../screenshots/13-inc-003-resolved.png)
+5. [Общий статус Jira-проекта](../screenshots/14-project-overview.png)
 
 
