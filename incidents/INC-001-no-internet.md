@@ -71,7 +71,7 @@
 ## Скриншоты процесса
 
 1. [Создание заявки](../screenshots/01-incident-created.png)
-2. [Заявка в работе](../screenshots/02-incident-in-progress.png)
+2. [Заявка в работе](../screenshots/02-incident-in-progress-clean.png)
 3. [Диагностическая запись](../screenshots/03-incident-diagnostics.png)
 4. [Комментарий пользователю](../screenshots/04-user-communication.png)
 5. [Решённый инцидент](../screenshots/05-incident-resolved.png)
