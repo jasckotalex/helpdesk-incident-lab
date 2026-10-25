@@ -84,3 +84,11 @@ Helpdesk Incident Lab is a practical learning portfolio for IT Support, Service 
 It documents three simulated Jira incidents: loss of Internet access, DNS name resolution failure and an RDP authentication issue. The repository includes Windows network diagnostics, DNS troubleshooting, remote access checks, escalation criteria and Jira screenshots.
 
 All command outputs and root causes are explicitly marked as simulated where they were not collected from real infrastructure.
+
+## Процессы Service Desk
+
+- [Учебная SLA-матрица](reports/sla-matrix.md) — условные значения времени реакции и решения.
+- [Пример эскалации](knowledge-base/escalation-example.md) — какие данные передавать второй линии.
+- [Сводный отчёт по инцидентам](reports/incident-summary.md) — сравнение трёх сценариев и общий процесс обработки.
+
+SLA в этом проекте используется только как учебная модель. Реальные сроки определяются политикой конкретной организации.
